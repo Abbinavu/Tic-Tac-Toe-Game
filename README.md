@@ -1,16 +1,15 @@
-# ludo
+📝 Overview
 
-A new Flutter project.
+Tic Tac Toe is a simple yet engaging game where two players take turns marking spaces in a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
-## Getting Started
+This Flutter-based implementation features a smooth and responsive design, making it enjoyable for users of all ages.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🎮 Turn-based gameplay for two players.
+- 🏆 Score tracking for Player X and Player O.
+- 🔄 Reset functionality to clear the board.
+- 🎨 Clean and responsive user interface.
+- 🖤 Dark mode theme for comfortable gameplay.
